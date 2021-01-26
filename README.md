@@ -1,7 +1,7 @@
 # 📚 English study
 
 | English                       | Explanation                   | Polish                    |
-| -------------                 |:-------------                :| -----                   :|
+| ----------------------------- | ----------------------------- | ------------------------- |
 | with the hindsight of         | -                             | z perspektywy czasu       |
 | to brag with sth              | -                             | chełpić się czymś         |
 | a hidden spot                 | -                             | ukryte miejsce            |
