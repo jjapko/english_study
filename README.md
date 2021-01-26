@@ -1,6 +1,6 @@
 # 📚 English study
 
-| 🇬🇧 English                   | ✍️ Explanation                 | 🇵🇱Polish                 |
+| 🇬🇧 English                   | ✍️ Explanation                 | 🇵🇱 Polish                 |
 | ----------------------------- | ----------------------------- | ------------------------- |
 | with the hindsight of         | -                             | z perspektywy czasu       |
 | to brag with sth              | -                             | chełpić się czymś         |
@@ -40,16 +40,43 @@
 | with conviction               | without doubts                | z przekonaniem            | 
 | to make an informed decision  | to make well thought decision | podjąć przemyślaną decyzję| 
 | to canvass for sth            | to make a survey              | przeprowadzić sondaż      | 
-| to canvass opinions on sth    |                               |                           | 
+| to canvass opinions on sth    | ask for support for ideas     | przekonywać do czegoś     | 
 | to grate on sb                | make sb angry                 |                           | 
 | to shore up (one's finances)  | to support sth                |                           | 
 | a red flag                    | a big problem                 | duży problem              | 
 | to muddle along               |                               | poradzić sobie            | 
 | to be alert to sth            | be aware of sth               | być świadomym czegoś      | 
 | overarching way of            |                               | nadrzędny sposób          | 
-| vacillating                   |                               | nadrzędny sposób          | 
+| vacillating                   |                               | niezdecydowany, ostrożny  | 
 | sage                          |                               | mędrzec                   | 
 | a comforting idea             |                               | pocieszająca myśl         | 
 | to acknowledge an error       | to admit an error             |                           | 
 | an attorney                   |                               | adwokat                   | 
 | a mere fact                   |                               | sam fakt                  | 
+| a dig site                    |                               | wykopalisko               | 
+| metacognition                 | metaunderstanding             |                           | 
+| discard                       | throw sth away                | odrzucić coś              | 
+| implications                  | future effects of decision    | efekty decyzji            | 
+| whittle down                  | gradually reduce number of options    | stopniowo redukować liczbę opcji | 
+| pronounced                    | sth obvious or noticeable     | oczywiste, łatwo zauważalne | 
+| counter-intuitive             | not intuitive                 | nieintuicyjne             | 
+| paralysis                     | inability to move             | paraliż                   | 
+| budding technology            | inability to move             | paraliż                   | 
+| prohibited                    | banned, restricted            | zakazane                  | 
+| to be dazzled                 |                               | być olśnionym             | 
+| mundane                       | common                        | przyziemny, doczesny      | 
+| a gambit                      | risky play                    | ryzykowne działanie       | 
+| a pawn                        |                               | pionek                    | 
+| to deceive sb                 | to fool sb                    | oszukać kogoś             | 
+| to fidget                     | to shake uncontrollably       | dygotać                   | 
+| a misconception               | wrong understanding           | niezrozumienie            | 
+| to move about a lot           |                               |                           | 
+| to debunk a theory            | expose the sham of sth        | zdyskredytować teorię     | 
+| off-limits                    | forbidden                     | zabronione                | 
+| posh                          |                               |                           | 
+| hefty portion                 | a big part                    | spora porcja              | 
+| to rub shoulder with sth      |                               |               | 
+| a banger                |                    |               | 
+| a facial cue                  | a facial hint                 |                | 
+| cause the outpouring of contempt |               |               | 
+| come along | come with                |               | 
