@@ -75,8 +75,41 @@
 | off-limits                    | forbidden                     | zabronione                | 
 | posh                          |                               |                           | 
 | hefty portion                 | a big part                    | spora porcja              | 
-| to rub shoulder with sth      |                               |               | 
-| a banger                |                    |               | 
-| a facial cue                  | a facial hint                 |                | 
-| cause the outpouring of contempt |               |               | 
-| come along | come with                |               | 
+| to rub shoulder with sth      |                               |                           | 
+| a banger                      |                               |                           | 
+| a facial cue                  | a facial hint                 |                           |   
+| cause the outpouring of contempt |                            |                           | 
+| come along                    | come with                     | przyjść razem z           | 
+| a mental asulym               | hospital for lunatics         | psychiatryk               | 
+| a ratchet                     |                               |                           | 
+| contentious                   | controversial                 | kontrowersyjny, sporny    | 
+| cringy                        | embarassing                   | żenujący                  | 
+| to account for                | be reason for                 | odpowiadać za             | 
+| a distress message            |                               |                           | 
+| zip right out                 |                               | wylecieć                  | 
+| to sweep the web              |                               | rozprzestrzenić w sieci   | 
+| misnomer about sth            | wrong explanations of sth     | błędne określenie         | 
+| inflated prices               | raised prices                 | podniesione ceny          | 
+| a bargain                     | cheap sale                    | okazja (zakupy)           | 
+| a run up                      | a preceding period            | poprzedzający czas        | 
+| canny                         |                               |                           | 
+| to clamor                     | create a crowd                | tłoczyć sie               | 
+| to lure                       | to tempt                      | kusić                     | 
+| to hit back                   | to respond                    | odpowiedzieć              | 
+| fowl                          | homegrown chickens            | ptactwo domowe            | 
+| a conviction for              |                               | przekonanie o             | 
+| a pitch                       | tar                           | smoła                     | 
+| a cargo                       | goods                         | przewożony towar          | 
+| to commision                  |                               | zlecić                    | 
+| a labour                      | physical work                 | fizyczna praca            | 
+| a beam                        |                               | belka                     | 
+| a shelter                     |                               | schronienie               | 
+| a stall                       |                               |                           | 
+| to immerse                    |                               | zanużyć się               | 
+| to buoy                       | to float on water             | unosić się na wodzie      | 
+| to throng                     | to crowd                      | tłoczyć sie               | 
+| bouyancy                      | ability to float              | pływalność                | 
+| to coin a term                | invent a name for sth         | wymyśleć nazwę            | 
+| feel sth by hunches           | feel sth by instinct          | mieć przeczucie           | 
+| to be stuck for ideas         | feel sth by instinct          | wyczerpały się pomysły    | 
+| to draw a blank               | feel sth by instinct          | mieć pustkę w głowie      | 
