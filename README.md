@@ -61,7 +61,7 @@
 | pronounced                    | sth obvious or noticeable     | oczywiste, łatwo zauważalne | 
 | counter-intuitive             | not intuitive                 | nieintuicyjne             | 
 | paralysis                     | inability to move             | paraliż                   | 
-| budding technology            | inability to move             | paraliż                   | 
+| budding technology            | flourishing technology        | rozkwitająca technologia  | 
 | prohibited                    | banned, restricted            | zakazane                  | 
 | to be dazzled                 | to be fascinated              | być olśnionym             | 
 | mundane                       | common                        | przyziemny, doczesny      | 
