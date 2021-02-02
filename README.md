@@ -113,3 +113,12 @@
 | feel sth by hunches           | feel sth by instinct          | mieć przeczucie           | 
 | to be stuck for ideas         | have no more idea             | wyczerpały się pomysły    | 
 | to draw a blank               | have empty mind for ideas     | mieć pustkę w głowie      | 
+| vintage               |      |       | 
+| eclectic               |      |       | 
+| travel mementos               |      |       | 
+| airy               |      |       | 
+| bare essentials               |      |       | 
+| poky               |      |       | 
+| social mores               | social customs     |       | 
+| gut sth               |      |       | 
+| beat of calm              |      |       | 
