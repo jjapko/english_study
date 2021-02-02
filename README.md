@@ -111,5 +111,5 @@
 | bouyancy                      | ability to float              | pływalność                | 
 | to coin a term                | invent a name for sth         | wymyśleć nazwę            | 
 | feel sth by hunches           | feel sth by instinct          | mieć przeczucie           | 
-| to be stuck for ideas         | feel sth by instinct          | wyczerpały się pomysły    | 
-| to draw a blank               | feel sth by instinct          | mieć pustkę w głowie      | 
+| to be stuck for ideas         | have no more idea             | wyczerpały się pomysły    | 
+| to draw a blank               | have empty mind for ideas     | mieć pustkę w głowie      | 
